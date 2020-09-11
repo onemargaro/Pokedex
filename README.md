@@ -21,4 +21,4 @@ npm install && npm start
   - [ ] Iterate all pokemon list
   - [ ] Create search event for list
   - [ ] Applied debounce to avoid complexity on time sincronization
-  - [ ]Render(Remplace) new filtered pokelist
+  - [ ] Render(Remplace) new filtered pokelist
