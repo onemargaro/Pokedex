@@ -13,6 +13,6 @@ npm run dev:start
 ```
 
 
-# Dist folder
+# Docs folder
 
-* dist folder should be commited in order to use github pages read those files
+* docs folder should be commited in order to use github pages read those files
