@@ -1,3 +1,5 @@
+import "./styles/style.scss";
+import POKEMONS from "./pokedex";
 const POKEDEX_CONTAINER = document.getElementById("pokedex");
 const SHOW_MORE = "Ver mas";
 const TYPES = "Tipos";
